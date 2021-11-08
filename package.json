@@ -1,0 +1,18 @@
+{
+    "name": "@netsells/netsells-storybook-theme",
+    "version": "1.0.0",
+    "main": "./index.js",
+    "license": "MIT",
+    "dependencies": {
+        "@storybook/addons": "^6.3.12",
+        "@storybook/theming": "^6.1.7"
+    },
+    "repository": {
+        "url": "https://github.com/netsells/netsells-storybook-theme"
+    },
+    "author": {
+        "name": "Sam Turrell",
+        "url": "https://samturrell.co.uk",
+        "email": "sam.turrell@netsells.co.uk"
+    }
+}
